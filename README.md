@@ -6,6 +6,7 @@ ClientSide
 A simple console calculator in C#, implemented in an object-oriented style with clear class separation.
 
 ## Project Structure
+<img width="663" height="527" alt="image" src="https://github.com/user-attachments/assets/bd3ee4a9-f474-4adc-8dda-e8e5d3a77642" />
 
 - **Calculator** – contains methods for mathematical operations:
   - `Add(double a, double b)`
